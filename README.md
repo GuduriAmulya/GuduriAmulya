@@ -8,7 +8,7 @@ I'm a passionate **Computer Science student** and an enthusiastic learner who lo
 ## 💡 About Me
 
 - 🌱 Currently learning and exploring **Web Development**, **AI**, and **backend systems**
-- 💻 Love working with C++, JavaScript, Python, and Java
+- 💻 Love working with C++, Java, JavaScript, Python.
 - 🚀 Open to new opportunities and collaborations on tech projects
 
 ---
